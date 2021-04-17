@@ -4,8 +4,8 @@ Good Tool For Increase Instagram Follower.
 # Requirements
 1. openssl
 2. curl
+# How to Install in Termux
 
-#How to Install in Termux
 $ pkg up -y
 
 $ pkg install openssl-tool
