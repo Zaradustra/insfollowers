@@ -16,7 +16,7 @@ pkg install git
 
 git clone https://github.com/zaradustra/insfollowers
 
-cd insfollow
+cd insfollowers
 
 chmod +x insfollow.sh
 
