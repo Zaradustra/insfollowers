@@ -14,7 +14,7 @@ pkg install curl
 
 pkg install git
 
-git clone https://github.com/zaradustra/insfollow
+git clone https://github.com/zaradustra/insfollower
 
 cd insfollow
 
